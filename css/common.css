@@ -65,7 +65,7 @@ h2 {
 }
 
 /* task-2 */
-gallery {
+.gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
