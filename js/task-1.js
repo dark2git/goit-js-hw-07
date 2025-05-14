@@ -1,3 +1,4 @@
+`use strict`;
 const allItems = document.querySelectorAll(".item")
 console.log(`Number of categories: ${allItems.length}`);
 allItems.forEach(item => {
